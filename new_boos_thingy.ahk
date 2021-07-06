@@ -1,3 +1,5 @@
+; made by Awnmp
+
 ; this is to go with boo's layout
 ; if you don't want a particular change, put ";" before each lines
 

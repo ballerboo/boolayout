@@ -2,7 +2,7 @@
 
 <html>
 <p style="text-align: center;">
-  <a href="https://ballerboo.github.io/boolayout/boo.zip">
+  <a href="https://ballerboo.github.io/boolayout/boo.zip">Download Boo Layout</a>
 </p>
 </html>
 

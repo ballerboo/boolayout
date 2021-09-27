@@ -22,6 +22,8 @@
 <p style="text-align: center;"><a href="https://ballerboo.github.io/boolayout/boo.zip">Download Boo Layout</a></p>
 <a href="https://ballerboo.github.io/boolayout/boo.zip" class="btn">Download Boo Layout</a>
 
+</html>
+    
 # About Boo Layout
 
 Boo Layout is designed for comfort at low and high speed, achieved with a decreased finger movement rate. This is accomplished with reduced SFB, DSFB, and LSB rates and distances.
@@ -85,4 +87,3 @@ Below is a detailed breakdown of boo layout from Semi's Key Analyser
   - cs 9.482
   - ,a 8.322
   - np 7.805
-</html>

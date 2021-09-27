@@ -1,7 +1,6 @@
 <html>
 <head>
-<style>
-.btn {
+<style>.btn {
     display: inline-block;
     margin-bottom: 1rem;
     color: rgba(255,255,255,0.7);
@@ -12,9 +11,7 @@
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     padding: 0.75rem 1rem;
-}
-   
-</style>
+}</style>
 </head>
 
 <center><img src="./layout.png"></center>

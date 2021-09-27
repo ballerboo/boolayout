@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="layout.jpg" alt="Boo Layout"></p>
+<img src="layout.jpg" alt="Boo Layout" class="center">
 
 <p style="text-align: center;"><a href="https://ballerboo.github.io/boolayout/boo.zip">Download Boo Layout</a></p>
 

@@ -1,3 +1,4 @@
+<style>
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
@@ -10,6 +11,7 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     padding: 0.75rem 1rem;
 }
+</style>
 
 <center><img src="./layout.png"></center>
 

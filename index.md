@@ -1,7 +1,7 @@
-<p style="text-align: center;">
 ![](layout.png)
 
-[Download Boo Layout](https://ballerboo.github.io/boolayout/boo.zip)
+<p style="text-align: center;">
+  [Download Boo Layout](https://ballerboo.github.io/boolayout/boo.zip)
 </p>
 
 # About Boo Layout

@@ -4,7 +4,8 @@
     display: inline-block;
     margin-bottom: 1rem;
     color: rgba(255,255,255,0.7);
-    background-color: rgba(255,255,255,0.08);
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957)
     border-color: rgba(255,255,255,0.2);
     border-style: solid;
     border-width: 1px;

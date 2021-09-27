@@ -5,7 +5,18 @@
     margin-bottom: 1rem;
     color: rgba(255,255,255,0.7);
     background-color: #159957;
-    background-image: linear-gradient(120deg, #155799, #159957)
+    border-color: rgba(255,255,255,0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+    padding: 0.75rem 1rem;
+}
+.discord {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: rgba(255,255,255,0.7);
+    background-color: #7289da;
     border-color: rgba(255,255,255,0.2);
     border-style: solid;
     border-width: 1px;
@@ -18,6 +29,7 @@
 <center><img src="./layout.png"></center>
 
 <center><a href="https://ballerboo.github.io/boolayout/boo.zip" class="button">Download Boo Layout</a></center>
+<center><a href="https://discord.gg/BKnzpGgua2" class="discord">Join the Boo Layout Discord</a></center>
 
 </html>
     

@@ -1,3 +1,4 @@
+<html>
 <style>
 .btn {
     display: inline-block;
@@ -81,3 +82,4 @@ Below is a detailed breakdown of boo layout from Semi's Key Analyser
   - cs 9.482
   - ,a 8.322
   - np 7.805
+</html>

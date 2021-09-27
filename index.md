@@ -1,4 +1,5 @@
 <html>
+<head>
 <style>
 .btn {
     display: inline-block;
@@ -12,7 +13,9 @@
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     padding: 0.75rem 1rem;
 }
+   
 </style>
+</head>
 
 <center><img src="./layout.png"></center>
 

@@ -1,8 +1,10 @@
 ![](layout.png)
 
+<html>
 <p style="text-align: center;">
-  [Download Boo Layout](https://ballerboo.github.io/boolayout/boo.zip)
+  <a href="https://ballerboo.github.io/boolayout/boo.zip">
 </p>
+</html>
 
 # About Boo Layout
 

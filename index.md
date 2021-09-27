@@ -1,7 +1,7 @@
 <center><img src="./layout.png"></center>
 
 <p style="text-align: center;"><a href="https://ballerboo.github.io/boolayout/boo.zip">Download Boo Layout</a></p>
-
+<a href="https://ballerboo.github.io/boolayout/boo.zip" class="btn">Download Boo Layout</a>
 
 # About Boo Layout
 

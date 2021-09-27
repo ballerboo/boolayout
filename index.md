@@ -1,4 +1,4 @@
-![](layout.png)
+<p style="text-align: center;"><img src="layout.jpg" alt="Boo Layout"></p>
 
 <p style="text-align: center;"><a href="https://ballerboo.github.io/boolayout/boo.zip">Download Boo Layout</a></p>
 

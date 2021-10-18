@@ -35,15 +35,21 @@
     
 # About Boo Layout
 
-Boo Layout is designed for comfort at low and high speed, achieved with a decreased finger movement rate. This is accomplished with reduced SFB, DSFB, and LSB rates and distances.
+Boo is a high rolling layout, with a roll/alternation/onehand/redirect distribution similar to Colemak's, but with lower SFB and DSFB rates and lower index finger movement rates. Hand usage on Boo is also more balanced. Boo scores very favorably on a large variety of analyzers, such as genkey, the Colemakmods analyzer, patorjk's analyzer (as well as SteveP's fork of it), the Keyboard-Design.com or KLAnext analyzer, and StronglyTyped's analyzer.
 
-Hand usage on Boo Layout is more balanced than popular alternative layouts such as Dvorak and Colemak.
+Vowels are mostly concentrated on the left hand (a, o, e, u) to increase alternation and reduce redirects, while one vowel is placed on the right hand (i) to increase rolls.
 
-Vowels are mostly concentrated on the left hand (a, e, o, u) to increase alternation and reduce redirects, while one vowel is placed on the right hand (i) to increase rolls.
+By default, Boo modifies some of the less common punctuation keys, placing the hyphen in a very good position next to Enter, and a shift-inverted question mark above that (the key produces "?" by default and "/" with Shift held).
+
+In an effort to reduce SFB rates, SC and PH are designed to be easy to alt-finger if desired, while UE can be typed with a sliding motion on some keyboards. 
+
+The similarity between Boo and Dvorak such as E, T, A, and O, and many letters only a short distance from their Dvorak positions, including H, R, L, U, F, B, M, D, and nearly all of the punctuation can make Boo easier for Dvorak users to learn, or possibly more confusing.
 
 The Boo Layout was initially created to rival the [ISRT Layout](https://notgate.github.io/layout/) which is based, among other things, on achieving low SFB% and higher index than pinky usage. ISRT was validated on the Colemakmods analyzer model. The Boo Layout scores very well, both on that model and [Semi's new Key Analyzer](https://github.com/semilin/genkey) which introduces novel analysis concepts.
 
 There is also an AutoHotkey script that increases homerow usage by allowing the 'n' key location to be used to actuate the 'h' key for certain rolls. You can download this [here](https://ballerboo.github.io/boolayout/boo_ahk.zip).
+
+Finally, the Boo layout was developed during the spring and summer of 2021 by Discord user Boo, with input from several members of what eventually became the Alt Keyboard Layouts Discord server. The home keys made their first appearance on 2021-03-23, while the most recent change was on 2021-09-27. 
 
 You can use Boo layout on DreymaR's EPKL software [here](https://github.com/DreymaR/BigBagKbdTrixPKL/tree/master/Layouts/Boo).
 

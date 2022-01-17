@@ -29,7 +29,7 @@
 <center><img src="./layout.png"></center>
 
 <center><a href="https://ballerboo.github.io/boolayout/boo.zip" class="button">Download Boo Layout</a></center>
-<center><a href="https://discordapp.com/users/603104594465259520" class="discord">Contact the creator on Discord</a></center>
+<center><a href="https://discordapp.com/users/913394779071582219" class="discord">Contact the creator on Discord</a></center>
 
 </html>
     
